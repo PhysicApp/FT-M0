@@ -1,0 +1,32 @@
+body{
+   background: url('./gatito.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+
+h1{
+ color: aquamarine;
+ margin: center;
+ text-align: center;
+
+}
+
+#thirDiv{
+width: 600px;
+height: 500px;
+background-color: blueviolet;
+padding: 50px;
+border: 10px solid black;
+border-radius: 50px;
+}
+
+#spanID{
+    font-size: 18px;
+    margin: 50px;
+
+}
+
+div{
+    text-align: center;
+}
